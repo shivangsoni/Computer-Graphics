@@ -1,6 +1,3 @@
-Name:Shivang Soni 
-Student ID:915623718
-
 This interactive application contain files namely: 
 1.inp.txt:to store the inputted vertices of the polygon and after all transformations and operations store the updated vertices.
 2.Information Manual:Contain information how to execute the programs.
