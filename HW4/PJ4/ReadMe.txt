@@ -1,6 +1,3 @@
-Name:Shivang Soni 
-Student ID:915623718
-
 This projects implements Biezer curve and B spline curve.
 
 
