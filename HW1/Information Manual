@@ -1,0 +1,33 @@
+Name:Shivang Soni 
+Student ID:915623718
+
+Que1.How to execute the program?
+Sol1.There is a input file named "input.txt" from which the program takes all information required to draw a polygon.
+
+There is a output file named "output.txt" where all the modified coordinate information is to be stored.
+
+For Compiling the code I use: g++  Final.cpp -lX11 -lGL -lGLU -lglut -g -Wall -O2 -o Final
+Then running the compiled file through command prompt by: ./Final
+
+Que2.How the program works?
+Sol2.This is a console based interactive application.
+
+Example:
+The input file contain data for 2 polynomials like
+2
+4
+5.0 5.0 
+10.0 10.0
+15.0 5.0
+10.0 0.0
+3
+40.0 40.0
+40.0 80.0
+60.0 60.0
+
+Then on Compilation and Execution we can able to see the polygons on the screen based on what data we provide.
+ Please find the Screen Shots enclosed.
+The program ask for the choices i.e what operation to perform.
+Id of the polygon
+Based on that operation will be performed.
+ 
