@@ -1,7 +1,3 @@
-Name:Shivang Soni 
-Student ID:915623718
-
- 
 1.inp.txt:to store the inputted vertices of the polygon and after all transformations and operations store the updated vertices.
 2.Information Manual:Contain information how to execute the programs.
 3.ReadMe.txt:All files present.
